@@ -33,7 +33,7 @@ import { defineComponent, ref } from 'vue';
 const menu = [
   {
     title: 'All',
-    path: 'all',
+    path: '/',
   },
   {
     title: 'Launched',
